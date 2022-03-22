@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Eduardo Franco 👋
 
 
-- 🔭 Hoje estudo bootcamp Web Full Stack
+- 🔭 Web Full Stack Jr.
 - 🌱 Estudando Java
 - 📫 Contate-me no email: edufranco.dc@gmail.com
 - 😄 Pronouns: ele/dele
