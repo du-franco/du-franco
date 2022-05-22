@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Eduardo Franco 👋
 
 
-- 🔭 Web Full Stack Jr.
+- 🔭 BackEnd Developer Trainee
 - 🌱 Estudando Java
 - 📫 Contate-me no email: edufranco.dc@gmail.com
 - 😄 Pronouns: ele/dele
