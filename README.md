@@ -2,7 +2,7 @@
 
 
 - 🔭 BackEnd Developer Jr
-- 🌱 Estudando Java
+- 🌱 Estudando Csharp
 - 📫 Contate-me no email: edufranco.dc@gmail.com
 - 😄 Pronouns: ele/dele
 <div align="center">
